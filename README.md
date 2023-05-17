@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-![snake gif](https://github.com/{{NatsCM}}/{{NatsCM}}/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/NatsCM/NatsCM/blob/output/github-contribution-grid-snake.svg)
 -->
 
 
